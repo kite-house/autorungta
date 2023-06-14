@@ -22,6 +22,8 @@ def main():
     pyautogui.moveTo(1120, 621)
     pyautogui.click()
 
+    time.sleep(600)
+
     print('GTA V RUNNING')
 
     pyautogui.click()
